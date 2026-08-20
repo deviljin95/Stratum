@@ -1,5 +1,7 @@
 # Stratum - App iOS per l'Apprendimento Collaborativo
-<img width="250" height="250" alt="Icon" src="https://github.com/user-attachments/assets/8fa0a1b9-2fba-4f12-82d1-0063541de084" />
+<p align="center">
+ <img width="250" height="250" alt="Icon" src="https://github.com/user-attachments/assets/8fa0a1b9-2fba-4f12-82d1-0063541de084" />
+</p>
 
 
 Progetto di Tesi di Laurea Triennale in Informatica, sviluppato a seguito dell'esperienza presso la Apple Developer Academy.
