@@ -19,8 +19,8 @@ https://github.com/user-attachments/assets/bc20bb1c-7712-4190-9fc2-154a99d43e41
 * **Acquisizione Intelligente (OCR):** Digitalizzazione immediata di testi cartacei tramite fotocamera. Il testo estratto è immediatamente modificabile e indicizzabile.
   * *<img width="300" height="500" alt="6 2ScansioneFotocamera" src="https://github.com/user-attachments/assets/9523e851-3b46-4fcf-a65e-26076b676378" />
 * **Commenti Semantici e Interazione:** Selezione di specifiche porzioni di testo per allegarvi note, dubbi o spiegazioni puntuali.
-  * *<img width="828" height="1792" alt="10Commento1" src="https://github.com/user-attachments/assets/1cbfb1d2-0640-432a-b5fa-58d7e937927b" />*
-  * *<img width="828" height="1792" alt="12TestoConCommento" src="https://github.com/user-attachments/assets/f755bb75-7fe2-4147-8abf-e128ed598c53" />*
+  * *<img width="300" height="500" alt="10Commento1" src="https://github.com/user-attachments/assets/1cbfb1d2-0640-432a-b5fa-58d7e937927b" />*
+  * *<img width="300" height="500" alt="12TestoConCommento" src="https://github.com/user-attachments/assets/f755bb75-7fe2-4147-8abf-e128ed598c53" />*
 * **Condivisione Gerarchica in Cloud:** I testi e i relativi commenti possono essere condivisi in modo sicuro tramite link d'invito, permettendo la sincronizzazione dei dati in tempo reale tra tutti i partecipanti.
 
 
