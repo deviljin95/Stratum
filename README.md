@@ -58,3 +58,14 @@ Il software è stato progettato seguendo rigorosamente i principi dell'Ingegneri
 ## 📊 Validazione e Beta Testing
 L'applicazione è stata sottoposta a test unitari (Black Box e White Box) e distribuita in Beta tramite Apple TestFlight a un campione di 108 studenti universitari. 
 La telemetria ha confermato l'elevata stabilità del software con il 98.2% di sessioni prive di crash, mentre i sondaggi UX hanno registrato un altissimo grado di soddisfazione, specialmente per l'affidabilità dello scanner OCR.
+
+## 📚 Documentazione Completa
+Per un'analisi approfondita dell'intero ciclo di vita del software, inclusi i diagrammi UML, la specifica dei requisiti (casi d'uso e tabelle di Cockburn) e il piano di testing completo, è possibile consultare la documentazione accademica integrale:
+
+📄 **[Scarica / Leggi la Tesi Completa (PDF)](Documentazione_Stratum.pdf)**
+---
+
+## 👨‍💻 Autore
+**Giovanni Luca Di Maio** 
+- **LinkedIn:** [linkedin.com/in/giovanni-luca-di-maio](https://linkedin.com/in/giovanni-luca-di-maio-bb84431b0)
+- **Email:** gianlucadm55@gmail.com
