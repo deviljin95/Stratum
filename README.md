@@ -1,30 +1,50 @@
-# Stratum - App iOS per l'Apprendimento Collaborativo
 <p align="center">
- <img width="250" height="250" alt="Icon" src="https://github.com/user-attachments/assets/8fa0a1b9-2fba-4f12-82d1-0063541de084" />
+ <img width="150" height="150" alt="Icon" src="https://github.com/user-attachments/assets/8fa0a1b9-2fba-4f12-82d1-0063541de084" />
+ <h1>Stratum - App iOS per l'Apprendimento Collaborativo</h1>
 </p>
-
 
 Progetto di Tesi di Laurea Triennale in Informatica, sviluppato a seguito dell'esperienza presso la Apple Developer Academy.
 
 ## 📖 Panoramica del Progetto
 Stratum è un'applicazione iOS nata per supportare e potenziare le attività di studio cooperativo, offrendo agli studenti uno strumento digitale per la condivisione e la risoluzione di dubbi accademici da remoto. 
-Rispondendo alle esigenze del Blended Learning post-pandemico, l'app funge da ponte tra il supporto fisico e quello digitale, permettendo di digitalizzare istantaneamente il materiale cartaceo e trasformarlo in un'area di lavoro interattiva.
 
+Spesso, lo studio collaborativo a distanza avviene tramite le classiche app di messaggistica, dove però la concentrazione viene facilmente spezzata da notifiche e messaggi fuori contesto. Come si nota nello spot qui sotto, basta una semplice distrazione in un gruppo chat per perdere il filo del discorso tra argomenti che non c'entrano nulla con lo studio. 
+
+Stratum nasce proprio per risolvere questa dispersione: fornire uno spazio dedicato esclusivamente all'apprendimento, dove il focus rimane al 100% sul documento e non c'è il rumore di fondo delle app tradizionali.
 
 https://github.com/user-attachments/assets/bc20bb1c-7712-4190-9fc2-154a99d43e41
 
-
 ## ✨ Funzionalità Core
 
+* **Inserimento Rapido Manuale:** Possibilità di inserire nuovi documenti digitando o incollando il testo direttamente nell'applicazione, arricchendoli con Titolo e #TAG per una facile catalogazione.
+
+
+https://github.com/user-attachments/assets/635a7a55-8dd0-4e42-a8db-0f7d301a0506
+
+
 * **Acquisizione Intelligente (OCR):** Digitalizzazione immediata di testi cartacei tramite fotocamera. Il testo estratto è immediatamente modificabile e indicizzabile.
-  * *<img width="300" height="600" alt="6 2ScansioneFotocamera" src="https://github.com/user-attachments/assets/9523e851-3b46-4fcf-a65e-26076b676378" />
+
+<img width="300" height="600" alt="6 2ScansioneFotocamera" src="https://github.com/user-attachments/assets/9523e851-3b46-4fcf-a65e-26076b676378" />
+
 * **Commenti Semantici e Interazione:** Selezione di specifiche porzioni di testo per allegarvi note, dubbi o spiegazioni puntuali.
-  * *<img width="300" height="500" alt="10Commento1" src="https://github.com/user-attachments/assets/1cbfb1d2-0640-432a-b5fa-58d7e937927b" />*
-  * *<img width="300" height="500" alt="12TestoConCommento" src="https://github.com/user-attachments/assets/f755bb75-7fe2-4147-8abf-e128ed598c53" />*
+
+<table align="center">
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/049b1338-a711-44c1-9c0c-e47af18ed819" width="350" controls></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/341b5ee6-fa61-4287-b844-eb49522be07d" width="350" controls></video>
+    </td>
+  </tr>
+</table>
+
+
+
 * **Condivisione Gerarchica in Cloud:** I testi e i relativi commenti possono essere condivisi in modo sicuro tramite link d'invito, permettendo la sincronizzazione dei dati in tempo reale tra tutti i partecipanti.
 
 
-https://github.com/user-attachments/assets/a93fcc04-c3c9-4255-bf3d-acb959cd53da
+https://github.com/user-attachments/assets/d77721bf-7e5a-4025-94c7-17296580c277
 
 
 ## 🛠 Architettura e Tecnologie
